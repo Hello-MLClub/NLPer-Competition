@@ -102,13 +102,13 @@
 
 | 平台       | 主要领域 | 自媒体                                                       |
 | ---------- | -------- | ------------------------------------------------------------ |
-| 微信公众号 | 技术     | Coggle数据科学、DataFunTalk（偏向业界方案）                  |
-|            | 行业信息 | 机器之心、机器之能、AI报道、AI前线、AI科技评论、机器学习研究组订阅 |
-|            | 学术     | 科学空间、PaperWeekly、智源社区、人工智能前沿讲习、专知、AINLP、AI TIME 论道、夕小瑶的卖萌屋、机器学习算法与自然语言处理（MLNLP） |
+| 微信公众号 | 技术     | 机器学习社区、Coggle数据科学、DataFunTalk（偏向业界方案）                  |
+|            | 行业信息 |  机器学习社区、机器之心、机器之能、AI报道、AI前线、AI科技评论、机器学习研究组订阅 |
+|            | 学术     |  机器学习社区、PaperWeekly、智源社区、人工智能前沿讲习、专知、AINLP、AI TIME 论道、夕小瑶的卖萌屋 |
 | BiliBili   | 前沿论坛 | 智源社区、AITIME论道                                         |
 |            | 基础     | 跟李沐学AI                                                   |
-| 网站       | 竞赛     | [Coggle数据科学](https://coggle.club/) 、[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) |
-|            | 学术     | [Paper With Code](https://paperswithcode.com/) 、[AMiner学术头条](https://www.aminer.cn/) 、[科学空间](https://kexue.fm/) |
+| 网站       | 竞赛     | Coggle数据科学 、CompHub |
+|            | 学术     | [Paper With Code](https://paperswithcode.com/)  |
 
 ## 算力推荐
 
