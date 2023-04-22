@@ -16,7 +16,7 @@
   * 竞赛平台，推荐一些主要的竞赛平台，[here](#竞赛平台) 
   * 会议时间，跟踪记录NLP会议收稿/开会时间，[here](#会议时间) 
 
-项目正在不断完善，如果您有什么建议，欢迎到[issue](https://github.com/Hello-MLClub/NLPer-Competition/issues) 留言，或者通过邮箱（hello@nlper-arsenal.cn）联系我们。
+项目正在不断完善，如果您有什么建议，欢迎到[issue](https://github.com/Hello-MLClub/NLPer-Competition/issues) 留言，或者通过添加 wx:mlc2060 联系我们。
 
 所有内容均由我们从网络公开资料中收集整理得到，版权归原作者所有，如有侵权请立即与我们联系，我们将及时处理。
 
